@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #F6F4E8;
+}
+.navbar-toggler-icon {
+    background-color: white;
+}
+.feature{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.carousel-caption h5{
+    background-color: #2A403D;
+    padding: 10px;
+}
+.carousel-caption  p{
+    background-color: #2A403D;
+    padding: 10px;
+}
+.carousel-caption{
+    justify-content: center;
+}
+.navbar{
+    background-color: black;
+    color: white;
+}
+#btn-intro{
+    background-color: #748B6F;
+    color: white;
+}
+.feature-box {
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    padding: 1.25rem;
+    margin-bottom: 1rem;
+    background-color: #f8f9fa;
+}
+
+.feature-box h4 {
+    margin-top: 0;
+}

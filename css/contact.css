@@ -1,0 +1,80 @@
+.contact-form {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+}
+ .login-image-section {
+    background: url(../img/6.jpg) no-repeat;
+    position: relative;
+    height: 92%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15%;
+    background-size: cover;
+    text-align: center;
+    color: var(--white-color);
+    margin-top: 50px;
+}
+
+
+ .image-section-content {
+    justify-content: left;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    color: white;
+    padding: 70px 0px;
+    height: 400px;
+}
+
+.contact-section {
+    padding: 50px 0;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 50px;
+}
+
+.contact-heading {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.contact-method {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.contact-method h4 {
+    color: #333;
+}
+
+.faq-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.faq-question {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.faq-answer {
+    display: none;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.fadeInUp{
+    margin-top: 50px;
+}
